@@ -1,0 +1,15 @@
+# Private experiment artifacts
+dataset/
+datasets/
+weights/
+runs/
+*.pt
+*.pth
+*.onnx
+
+# Python/editor artifacts
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.DS_Store

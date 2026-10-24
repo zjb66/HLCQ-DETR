@@ -1,0 +1,9 @@
+# Download the dataset from the URL documented in README.md and extract it
+# into the repository-local dataset/ directory before training.
+path: dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names: ['Tas_Var']
